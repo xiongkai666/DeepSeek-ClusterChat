@@ -1,0 +1,3 @@
+/home/kai/Desktop/ChatServerWithAI/test/testmuduo/build/CMakeFiles/server.dir
+/home/kai/Desktop/ChatServerWithAI/test/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/kai/Desktop/ChatServerWithAI/test/testmuduo/build/CMakeFiles/rebuild_cache.dir

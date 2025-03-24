@@ -1,0 +1,10 @@
+/home/kai/Desktop/ChatServerWithAI/build/CMakeFiles/edit_cache.dir
+/home/kai/Desktop/ChatServerWithAI/build/CMakeFiles/rebuild_cache.dir
+/home/kai/Desktop/ChatServerWithAI/build/src/CMakeFiles/edit_cache.dir
+/home/kai/Desktop/ChatServerWithAI/build/src/CMakeFiles/rebuild_cache.dir
+/home/kai/Desktop/ChatServerWithAI/build/src/server/CMakeFiles/ChatServer.dir
+/home/kai/Desktop/ChatServerWithAI/build/src/server/CMakeFiles/edit_cache.dir
+/home/kai/Desktop/ChatServerWithAI/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/kai/Desktop/ChatServerWithAI/build/src/client/CMakeFiles/ChatClient.dir
+/home/kai/Desktop/ChatServerWithAI/build/src/client/CMakeFiles/edit_cache.dir
+/home/kai/Desktop/ChatServerWithAI/build/src/client/CMakeFiles/rebuild_cache.dir
